@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+nav{
+	background-color:blue;
+	color:white;
+	display:flex;
+	justify-content:space-between;
+	padding:10px;
+}
+nav>div>a{
+	color:white;
+	margin-inline:10px;
+}
